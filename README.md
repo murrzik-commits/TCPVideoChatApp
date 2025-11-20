@@ -1,1 +1,1 @@
-This TCP Video Stream Chat Application for Streamers.
+This TCP Video Stream Chat Application.
